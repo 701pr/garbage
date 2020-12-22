@@ -1,0 +1,68 @@
+#lock{
+	border: 5px solid grey;
+	background: black;
+	border-radius: 15px;
+	text-align: center;
+	padding: 9px;
+	font-family: 'Bebas Neue';font-size: 22px; 
+	color: #2FFC9F;
+	display: block;
+    position: absolute;
+    top: 2%;
+    margin-left: 40%;
+    margin-right: 0;
+    font-size: 35px;
+}
+#digit{
+	padding: 3px;
+	font-size: 12px;
+	border: solid 1px;
+	border-radius: 7px;
+	border-top-color: #75CFF2;
+	color: green;
+	cursor: pointer;
+	border-left-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+}
+.button{
+	color: #2FFC9F;
+	font-weight: 80;
+	background: black;
+	font-size: 18px;
+	margin-top: 0.5em;
+	border-style: ridge;
+	border-radius: 50px;
+	border-color: grey;
+	font-family: 'Allerta Stencil';
+	cursor: pointer;
+	background: #273716;
+}
+#a{
+	border-color: #75CFF2;
+	background: silver;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 800;
+}
+#b{
+	border-color: #75CFF2;
+	background: silver;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 800;
+}
+#c{
+	border-color: #75CFF2;
+	background: silver;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 800;
+}
+#d{
+	border-color: #75CFF2;
+	background: silver;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 800;
+}
